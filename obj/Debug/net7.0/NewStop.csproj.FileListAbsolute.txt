@@ -1,0 +1,15 @@
+C:\dev\NewStop\bin\Debug\net7.0\NewStop.exe
+C:\dev\NewStop\bin\Debug\net7.0\NewStop.deps.json
+C:\dev\NewStop\bin\Debug\net7.0\NewStop.runtimeconfig.json
+C:\dev\NewStop\bin\Debug\net7.0\NewStop.dll
+C:\dev\NewStop\bin\Debug\net7.0\NewStop.pdb
+C:\dev\NewStop\obj\Debug\net7.0\NewStop.csproj.AssemblyReference.cache
+C:\dev\NewStop\obj\Debug\net7.0\NewStop.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\NewStop\obj\Debug\net7.0\NewStop.AssemblyInfoInputs.cache
+C:\dev\NewStop\obj\Debug\net7.0\NewStop.AssemblyInfo.cs
+C:\dev\NewStop\obj\Debug\net7.0\NewStop.csproj.CoreCompileInputs.cache
+C:\dev\NewStop\obj\Debug\net7.0\NewStop.dll
+C:\dev\NewStop\obj\Debug\net7.0\refint\NewStop.dll
+C:\dev\NewStop\obj\Debug\net7.0\NewStop.pdb
+C:\dev\NewStop\obj\Debug\net7.0\NewStop.genruntimeconfig.cache
+C:\dev\NewStop\obj\Debug\net7.0\ref\NewStop.dll
